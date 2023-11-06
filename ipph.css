@@ -1,0 +1,12 @@
+body,html{margin: 0;background-color:rgb(255, 255, 255) ; overflow-x: hidden;height: 916px;}
+.container{margin: 0px 0px;}
+.header{background-image:url(PS.png);height:150vh;width: 230vh;background-repeat: no-repeat;background-size: cover;}
+.header-line{padding-top: 1px;display: flex;align-items: center;justify-content:flex-end}
+.Cons{text-decoration: none;position: absolute;color: rgb(56, 56, 56);top: 220px;left: 30px;font-size: 50px;transition: color 0.3s linear;}
+.Cons:hover{color: rgb(117, 134, 182);}
+.Stat{text-decoration: none;position: absolute;color: rgb(22, 22, 22);top: 340px;left: 30px;font-size: 50px;transition: color 0.3s linear;}
+.Stat:hover{color: rgb(50, 84, 128);}
+.STT{text-decoration: none;position: absolute;color:rgb(56, 56, 56) ;top: 460px;left: 30px;font-size: 50px;transition: color 0.3s linear;}
+.STT:hover{color:rgb(117, 134, 182) ;}
+.HOW{text-decoration: none;position: absolute;color:rgb(22, 22, 22);top:580px;left: 30px;font-size: 50px;transition: color 0.3s linear;}
+.HOW:hover{color: rgb(50, 84, 128);}

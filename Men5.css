@@ -1,0 +1,12 @@
+body,html{margin: 0;background-color:rgb(255, 255, 255) ; overflow-x: hidden;height: 3000px;background: linear-gradient(to bottom,#ebebeb,#202020);}
+.container{margin: 0px 0px;}
+.header{background-image:url(BlackPapor.png);height:2710px;width:1300px ;background-repeat: no-repeat;background-size: cover;}
+.TO{position: absolute;text-decoration: none;font-size: 50px;color: rgb(207, 207, 207);top: 2800px;left: 500px;transition: color 0.4s linear;}
+.TO:hover{color: #78e298;}
+.Bac{text-decoration: none;position: absolute;color: rgb(89, 89, 122);top: 1900px;left: 300px;font-size: 50px;transition: color 0.3s linear;}
+.Bac:hover{color: #202020;}
+@media screen and (max-width: 1440px;) {}
+@media screen and (max-width: 1200px;) {}
+@media screen and (max-width: 998px;) {}
+@media screen and (max-width: 768px;) {}
+@media screen and (max-width: 576px;) {}

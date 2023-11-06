@@ -1,0 +1,5 @@
+body,html{margin: 0;background-color:rgb(255, 255, 255) ;overflow: hidden; height: 970px;}
+.container{margin: 0px 0px;}
+.header{background-image:url(PowerPoi.png);height: 615px;width:1330px;background-repeat: no-repeat;background-size: cover;}
+.BCK{text-decoration: none;position: absolute;color:rgb(82, 55, 37) ;top: -10px;left: 580px;font-size: 50px;font-weight: 900;transition: color 0.3s linear;}
+.BCK:hover {color: rgb(184, 127, 82);}

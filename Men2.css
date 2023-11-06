@@ -1,0 +1,24 @@
+.a1{position: absolute;height: 200px;width: 1400px;}
+.a2{position: absolute;height: 300px;top: 2710px;}
+.a3{position: absolute;width: 900px;height: 1700px;top: 300px;left: 200px;}
+.a4{position: absolute;height: 700px;top: 1400px;opacity: 0.6;right: 860px;}
+.a5{position: absolute;height: 700px;top: 1400px;opacity: 0.6;left: 850px;}
+.a6{position: absolute;height: 400px;width: 600px;opacity: 0.6;top: 150px;left: 700px;}
+.a7{position: absolute;height: 400px;width: 600px;opacity: 0.6;top: 150px;left: 1px;}
+#M{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 430px;left: 300px;}
+#One{position: absolute;font-size: 20px;color: rgb(72, 116, 105);font-family:  'EB Garamond', serif;top: 680px;left: 300px;}
+#What{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 720px;left: 300px;}
+#Anx{position: absolute;font-size: 20px;color: rgb(40, 148, 76);font-family:  'EB Garamond', serif;top: 940px;left: 300px;}
+#Dis{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 980px;left: 300px;}
+#Mod{position: absolute;font-size: 20px;color: rgb(40, 148, 76);font-family:  'EB Garamond', serif;top: 1090px;left: 300px;}
+#Dd{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 1180px;left: 300px;font-weight: 900;}
+#Cd{position: absolute;font-size: 20px;color: rgb(72, 116, 105);font-family:  'EB Garamond', serif;top: 1270px;left: 300px;font-weight: 900;}
+#H{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 1320px;left: 300px;font-weight: 900;}
+#MH{position: absolute;font-size: 60px;color: rgb(175, 175, 175);font-family:  'EB Garamond', serif;top: 70px;left: 450px;}
+@media screen and (max-width: 1440px;) {}
+@media screen and (max-width: 1200px;) {}
+@media screen and (max-width: 998px;) {}
+@media screen and (max-width: 768px;) {}
+@media screen and (max-width: 576px;) {}
+
+

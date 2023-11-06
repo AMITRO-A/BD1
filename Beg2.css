@@ -1,0 +1,23 @@
+.a1{position: absolute;height: 200px;width: 1400px;}
+.a2{position: absolute;height: 300px;top: 2710px;}
+.a3{position: absolute;width: 900px;height: 2400px;top: 300px;left: 200px;}
+.a4{position: absolute;height: 700px;top: 2100px;opacity: 0.6;right: 860px;}
+.a5{position: absolute;height: 700px;top: 2100px;opacity: 0.6;left: 850px;}
+.a6{position: absolute;height: 400px;width: 600px;opacity: 0.6;top: 150px;left: 700px;}
+.a7{position: absolute;height: 400px;width: 600px;opacity: 0.6;top: 150px;left: 1px;}
+#One{position: absolute;font-size: 20px;color: rgb(72, 116, 105);font-family:  'EB Garamond', serif;top: 430px;left: 300px;}
+#Plan{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 470px;left: 300px;}
+#Two{position: absolute;font-size: 20px;color: rgb(72, 116, 105);font-family:  'EB Garamond', serif;top: 820px;left: 300px;}
+#Eat{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 860px;left: 300px;font-weight: 900;}
+#Three{position: absolute;font-size: 20px;color: rgb(72, 116, 105);font-family:  'EB Garamond', serif;top: 1280px;left: 300px;}
+#Fibre{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 1310px;left: 300px;font-weight: 900;}
+#Four{position: absolute;font-size: 20px;color: rgb(72, 116, 105);font-family:  'EB Garamond', serif;top: 1560px;left: 300px;font-weight: 900;}
+#Salt{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 1600px;left: 300px;font-weight: 900;}
+#Five{position: absolute;font-size: 20px;color: rgb(72, 116, 105);font-family:  'EB Garamond', serif;top: 2140px;left: 300px;font-weight: 900;}
+#Cal{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 2190px;left: 300px;font-weight: 900;}
+#MH{position: absolute;font-size: 60px;color: rgb(175, 175, 175);font-family:  'EB Garamond', serif;top: 70px;left: 400px;}
+@media screen and (max-width: 1440px;) {}
+@media screen and (max-width: 1200px;) {}
+@media screen and (max-width: 998px;) {}
+@media screen and (max-width: 768px;) {}
+@media screen and (max-width: 576px;) {}

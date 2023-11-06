@@ -1,0 +1,23 @@
+.a1{position: absolute;height: 200px;width: 1400px;}
+.a2{position: absolute;height: 300px;top: 2710px;}
+.a3{position: absolute;width: 900px;height: 1900px;top: 300px;left: 200px;}
+.a4{position: absolute;height: 700px;top: 1600px;opacity: 0.6;right: 860px;}
+.a5{position: absolute;height: 700px;top: 1600px;opacity: 0.6;left: 850px;}
+.a6{position: absolute;height: 400px;width: 600px;opacity: 0.6;top: 150px;left: 700px;}
+.a7{position: absolute;height: 400px;width: 600px;opacity: 0.6;top: 150px;left: 1px;}
+#Diso{position: absolute;font-size: 20px;color: rgb(72, 116, 105);font-family:  'EB Garamond', serif;top: 430px;left: 300px;}
+#Ord{position: absolute;font-size: 20px;color: rgb(40, 148, 76);font-family:  'EB Garamond', serif;top: 470px;left: 300px;}
+#H{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 500px;left: 300px;}
+#Oc{position: absolute;font-size: 20px;color: rgb(72, 116, 105);font-family:  'EB Garamond', serif;top: 1300px;left: 300px;}
+#O{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 1340px;left: 300px;}
+#PT{position: absolute;font-size: 20px;color: rgb(72, 116, 105);font-family:  'EB Garamond', serif;top: 1430px;left: 300px;}
+#P{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 1520px;left: 300px;font-weight: 900;}
+#Sc{position: absolute;font-size: 20px;color: rgb(72, 116, 105);font-family:  'EB Garamond', serif;top: 1640px;left: 300px;font-weight: 900;}
+#S{position: absolute;font-size: 20px;color: rgb(29, 29, 29);font-family:  'EB Garamond', serif;top: 1680px;left: 300px;font-weight: 900;}
+#If{position: absolute;font-size: 20px;color: rgb(72, 116, 105);font-family:  'EB Garamond', serif;top: 1900px;left: 500px;font-weight: 900;opacity: 0.7;}
+#MH{position: absolute;font-size: 60px;color: rgb(175, 175, 175);font-family:  'EB Garamond', serif;top: 70px;left: 450px;}
+@media screen and (max-width: 1440px;) {}
+@media screen and (max-width: 1200px;) {}
+@media screen and (max-width: 998px;) {}
+@media screen and (max-width: 768px;) {}
+@media screen and (max-width: 576px;) {}

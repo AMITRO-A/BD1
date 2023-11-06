@@ -1,0 +1,50 @@
+.a1{position: absolute;top:0px ;left: 0px;height: 280px;width: 2000px;}
+.a2{position: absolute;top: 260px;left: 0px;height: 1570px;width: 650px;opacity: 0.5;}
+.a3{position: absolute;top: 1220px;left: 1px;}
+.a4{position: absolute;top: 1568px;left: 190px;}
+.a5{position: absolute;top: 220px;left: 620px;height: 200px;width: 700px;opacity: 0.6;}
+.a6{position: absolute;top: 400px;left:  660px;height: 260px;width: 280px;transition: transform 0.5s;overflow: hidden;}
+.a6:hover{-webkit-transform: scale(1.1);-ms-transform: scale(1.1);transform: scale(1.1);}
+.a7{position: absolute;top: 400px;left: 960px;height: 260px;width: 280px;transition: transform 0.5s;overflow: hidden;}
+.a7:hover{-webkit-transform: scale(1.1);-ms-transform: scale(1.1);transform: scale(1.1);}
+.a8{position: absolute;top: 750px;left: 800px;height: 260px;width: 280px;transition: transform 0.5s;overflow: hidden;}
+.a8:hover{-webkit-transform: scale(1.1);-ms-transform: scale(1.1);transform: scale(1.1);}
+.a9{position: absolute;opacity: 0.7;top: 1030px;height: 800px;left: 600px;}
+.a10{position: absolute;opacity: 0.7;top: 1030px;height: 800px;left: 1300px;}
+.a11{position: absolute;opacity: 0.3;height: 600px;top: 670px;}
+.a12{position: absolute;opacity: 0.3;height: 500px;bottom: 217px;right: 1400px;}
+
+
+#OURS{position: absolute;top: 450px;left: 20px;font-size: 50px;color: #745c31;}
+#SPC{position: absolute;top:740px;left: 20px;font-size: 40px;color: rgb(82, 56, 31);}
+.NMONE{position: absolute;top: 810px;left: 20px;font-size: 40px;color: #80684c;text-decoration: none;font-weight: 900;transition: color 0.5s;}
+.NMONE:hover{color: #d4ad94;}
+.NMTWO{position: absolute;top: 860px;left: 20px;font-size: 40px;color: #80684c;text-decoration: none;font-weight: 900;transition: color 0.5s;}
+.NMTWO:hover{color: #d4ad94;}
+.NMTHREE{position: absolute;top: 910px;left: 20px;font-size: 40px;color: #80684c;text-decoration: none;font-weight: 900;transition: color 0.5s;}
+.NMTHREE:hover{color: #d4ad94;}
+#SPCTWO{position: absolute;top: 870px;left: 20px;font-size: 40px;color:rgb(82, 56, 31) ;}
+.NMFOUR{position: absolute;top: 40px;left: 1px;font-size: 40px;color: #80684c;font-weight: 900;text-decoration: none;transition: color 0.5s;}
+.NMFOUR:hover{color: #d4ad94;}
+.NMFIVE{position: absolute;top: 90px;left: 1px;font-size: 40px;color: #80684c;font-weight: 900;text-decoration: none;transition: color 0.5s;}
+.NMFIVE:hover{color: #d4ad94;}
+.NMSIX{position: absolute;top: 140px;left: 1px;font-size: 40px;color: #80684c;font-weight: 900;text-decoration: none;transition: color 0.5s;}
+.NMSIX:hover{color: #d4ad94;}
+#IF{position: absolute;top: 310px;left: 1px;font-size: 40px;color: #693b10;font-weight: 900;}
+#NUMBER{position: absolute;top: 500px;left: 1px;font-size: 40px;color: #331a0a;font-weight: 900;}
+#OC{position: absolute;top: 550px;left: 1px;font-size: 37px;color:#745c31;font-weight: 900;}
+#COCO{position: absolute;top: 610px;left: 1px;font-size: 40px;color: #33230a;font-weight: 900;}
+#SER{position: absolute;bottom: 640px;left: 660px;font-size: 70px;color: white;font-weight: 900;}
+#W{position: absolute;bottom: 640px;left: 920px;font-size: 70px;color: white;font-weight: 900;}
+#PROV{position: absolute;bottom: 640px;left: 1030px;font-size: 70px;color: white;font-weight: 900;}
+#FIT{position: absolute;bottom: 320px;left: 750px;font-size: 30px;color: #694210;font-weight: 900;}
+#PLUS{position: absolute;bottom: 300px;left: 777px;font-size: 30px;color: #ac8159;font-weight: 900;}
+#COA{position: absolute;bottom: 280px;left: 750px;font-size: 30px;color: #694210;font-weight: 900;}
+#SP{position: absolute;bottom: 255px;left: 980px;font-size: 30px;color: #694210;font-weight: 900;}
+#ON{position: absolute;top: 40px;left: 820px;font-size: 30px;color: #694210;font-weight: 900;}
+#ONLY{position: absolute;bottom: 260px;left: 1280px;font-size: 80px;color: #331a0a;font-weight: 900;}
+@media screen and (max-width: 1440px;) {}
+@media screen and (max-width: 1200px;) {}
+@media screen and (max-width: 998px;) {}
+@media screen and (max-width: 768px;) {}
+@media screen and (max-width: 576px;) {}
